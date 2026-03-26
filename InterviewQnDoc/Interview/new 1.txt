@@ -1,0 +1,16 @@
+Spring Security and full stack security
+
+1. Explain project
+2. Check balanced parentheses, u have to code in notepad and test in intellij
+3. Move all zeroes to end and do it in place and order should be maintained 
+4. Kafka consumer groups, offset , how to consume start messages
+5. Grpc api calls 
+6. Create two threads and show the use of wait and notify like producer consumer 
+7. Exception handling in spring boot 
+8.@postconstruct and @preconstruct
+9. If we want to use some static value for every request so how u will cache it 
+10. @conditionalOnproperty and @conditionalOnBean
+11. Solid design principle with example
+12. Any other design patterns except singleton and factory 
+13. future and what is executor framework
+14. Hashmap , and it's load factor , what if we increase the load factor to 1

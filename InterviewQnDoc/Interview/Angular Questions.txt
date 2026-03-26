@@ -1,0 +1,5 @@
+https://github.com/sudheerj/angular-interview-questions
+
+https://www.linkedin.com/pulse/angular-interview-questions-answers-5-years-experience-qaisar-abbas-0uxdf
+
+5 Angular Architecture Patterns That Simplify Any Project
